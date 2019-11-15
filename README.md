@@ -1,4 +1,4 @@
-# Using the Object Mapper in C#
+# Object Mapper in C#
 
 This application demonstrates the different features of the object mapper in C#
 
